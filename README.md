@@ -124,7 +124,7 @@ Food recognition.ipynb
 dùng để train mô hình CNN nhận diện các loại thức ăn từ ảnh.
 
 Dataset được chia thành các folder class, mỗi folder tương ứng với một loại món ăn.
-
+```text
 Train/
 ├── Banh khot/
 ├── Banh mi/
@@ -136,6 +136,7 @@ Train/
 ├── Goi cuon/
 ├── Hu tieu/
 └── Pho/
+```
 
 ---
 
